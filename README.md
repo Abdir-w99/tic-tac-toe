@@ -1,1 +1,1 @@
-a code along project to practice JavaScript
+a code along to practice JavaScript
